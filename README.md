@@ -1,5 +1,7 @@
 # AppLogin
 
+[Link do Figma](https://www.figma.com/proto/7T1wkErczpMOBeqtpVjMSb/Login-Page-Design?node-id=6-1265&p=f&t=zPFUlsXDum4c5gAW-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A920)
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.10.
 
 ## Development server
